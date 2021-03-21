@@ -1,0 +1,67 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The Learning Diary of a Software Engineer</title>
+    <link>skochvi.github.io/tags/</link>
+    <description>Recent content in Tags on The Learning Diary of a Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 19 Mar 2021 21:25:52 -0400</lastBuildDate>
+    
+        <atom:link href="skochvi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>beauty</title>
+      <link>skochvi.github.io/tags/beauty/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>skochvi.github.io/tags/beauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>skochvi.github.io/tags/first/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>skochvi.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>happiness</title>
+      <link>skochvi.github.io/tags/happiness/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>skochvi.github.io/tags/happiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>love</title>
+      <link>skochvi.github.io/tags/love/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>skochvi.github.io/tags/love/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>newground</title>
+      <link>skochvi.github.io/tags/newground/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>skochvi.github.io/tags/newground/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>truth</title>
+      <link>skochvi.github.io/tags/truth/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>skochvi.github.io/tags/truth/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

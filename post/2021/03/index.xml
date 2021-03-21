@@ -1,0 +1,25 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021/03 on The Learning Diary of a Software Engineer</title>
+    <link>skochvi.github.io/post/2021/03/</link>
+    <description>Recent content in 2021/03 on The Learning Diary of a Software Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+        <atom:link href="skochvi.github.io/post/2021/03/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>skochvi.github.io/post/2021/03/19/first-post/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>skochvi.github.io/post/2021/03/19/first-post/</guid>
+      <description>This is stuff that is in my post.
+This is stuff that is in my post.
+This is stuff that is in my post.
+This is stuff that is in my post.
+This is stuff that is in my post.</description>
+    </item>
+    
+  </channel>
+</rss>
