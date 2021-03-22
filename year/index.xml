@@ -4,19 +4,9 @@
     <link>/year/</link>
     <description>Recent content in Year on The Learning Diary of a Software Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 19 Mar 2021 21:25:52 -0400</lastBuildDate>
     
         <atom:link href="/year/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>2021</title>
-      <link>/post/2021/</link>
-      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
-      
-      <guid>/post/2021/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

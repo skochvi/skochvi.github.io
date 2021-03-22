@@ -2,60 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/post/2021/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/tags/beauty/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/tags/first/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/post/2021/03/19/first-post/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/post/2021/03/19/fourth-post/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/tags/happiness/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/tags/love/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/tags/newground/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/post/2021/03/19/second-post/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/post/2021/03/19/third-post/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/tags/truth/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
-    <loc>/year/</loc>
-    <lastmod>2021-03-19T21:25:52-04:00</lastmod>
-  </url><url>
     <loc>/about/</loc>
-    <lastmod>2021-03-01T16:19:39-05:00</lastmod>
-  </url><url>
-    <loc>/post/2021/03/</loc>
-  </url><url>
-    <loc>/post/2021/03/19/</loc>
   </url><url>
     <loc>/day/</loc>
   </url><url>
     <loc>/month/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/</loc>
+  </url><url>
+    <loc>/year/</loc>
   </url>
 </urlset>

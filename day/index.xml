@@ -8,14 +8,5 @@
         <atom:link href="/day/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title>2021/03/19</title>
-      <link>/post/2021/03/19/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2021/03/19/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
