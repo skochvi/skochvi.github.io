@@ -22,5 +22,18 @@ This is stuff that is in my post.
 This is stuff that is in my post.</description>
     </item>
     
+    <item>
+      <title>Second Post</title>
+      <link>/post/2021/03/19/second-post/</link>
+      <pubDate>Fri, 19 Mar 2021 21:25:52 -0400</pubDate>
+      
+      <guid>/post/2021/03/19/second-post/</guid>
+      <description>This is stuff that is in my post.
+This is stuff that is in my post.
+This is stuff that is in my post.
+This is stuff that is in my post.
+This is stuff that is in my post.</description>
+    </item>
+    
   </channel>
 </rss>
