@@ -5,17 +5,10 @@
     <loc>/about/</loc>
     <lastmod>2023-09-04T19:09:11-04:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-09-04T17:59:49-04:00</lastmod>
-  </url><url>
-    <loc>/posts/my-first-post/</loc>
-    <lastmod>2023-09-04T17:59:49-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2023-09-04T17:59:49-04:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/</loc>
   </url>
 </urlset>
