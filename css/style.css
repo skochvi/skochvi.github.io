@@ -2,3 +2,24 @@
 body {
 	font-family: 'Century Schoolbook';
 }
+
+.table1 {
+    width: 100%; /* Full-width */
+    border-collapse: collapse; /* Collapse borders */
+    margin: 20px 0; /* Margin for spacing */
+}
+
+.table1 th,
+.table1 td {
+    border: 1px solid #ccc; /* Gray border */
+    padding: 8px; /* Padding for cell content */
+    text-align: left; /* Align text to the left */
+}
+
+.table1 thead {
+    background-color: #f4f4f4; /* Light gray background for headers */
+}
+
+.table1 tbody tr:nth-child(odd) {
+    background-color: #fdfdfd; /* Zebra striping for rows */
+}
